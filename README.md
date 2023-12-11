@@ -68,7 +68,9 @@ The choice of MongoDB as a NoSQL database provides flexibility and scalability, 
 You can refer following images to understand the user interface of the website:
 
 Crud Introduction:  ![image](https://github.com/gaurav270401/CRUD-WebApp/assets/133756033/86f058eb-ecb5-48fe-8d79-de46f4971fbf)
+
 Crud User page:  ![image](https://github.com/gaurav270401/CRUD-WebApp/assets/133756033/15625d64-a5c9-4e6f-aa72-afef6d2d6bd0)
+
 Add User:  ![image](https://github.com/gaurav270401/CRUD-WebApp/assets/133756033/c9ed84f0-b0c6-4b6a-bf25-ede1aeac4519)
 
 
